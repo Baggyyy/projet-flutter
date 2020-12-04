@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="54b33b57-5e7c-4910-9c04-012c0bde2370" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/lib/screens/nutrition_page.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/screens/profil_page.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/screens/accueil_page.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/screens/accueil_page.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/screens/entrainement_page.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/screens/entrainement_page.dart" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Dart File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="Mathieu" />
+      </list>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1de6pvnaTrAFSCzkPFNJ59WJPkX" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="dart.analysis.tool.window.force.activate" value="false" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="io.flutter.reload.alreadyRun" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="54b33b57-5e7c-4910-9c04-012c0bde2370" name="Default Changelist" comment="" />
+      <created>1592773397857</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1592773397857</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Création page login et inscription">
+      <created>1593125169473</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1593125169473</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Début page accueil BottomNavigationBar">
+      <created>1593131403780</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1593131403780</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Finition BottomNavigationBar et début création appBar de la page entrainement">
+      <created>1593303038225</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1593303038226</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Finition de l'appBar">
+      <created>1593454949763</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1593454949764</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ORDER">
+      <list>
+        <option value="0" />
+        <option value="2" />
+        <option value="3" />
+        <option value="1" />
+      </list>
+    </option>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Création page login et inscription" />
+    <MESSAGE value="Début page accueil BottomNavigationBar" />
+    <MESSAGE value="Finition BottomNavigationBar et début création appBar de la page entrainement" />
+    <MESSAGE value="Finition de l'appBar" />
+    <option name="LAST_COMMIT_MESSAGE" value="Finition de l'appBar" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="167" y="256" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1603581183052">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="167" y="256" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1603581183052" />
+    <state x="92" y="92" width="1736" height="856" key="AVDManager" timestamp="1603727026731">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="92" y="92" width="1736" height="856" key="AVDManager/0.0.1920.1040@0.0.1920.1040" timestamp="1603727026731" />
+    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1603727691364">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1603727691364" />
+    <state x="0" y="162" key="SettingsEditor" timestamp="1603727068244">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="0" y="162" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1603727068244" />
+    <state x="100" y="100" width="774" height="840" key="com.android.tools.idea.avdmanager.AvdListDialog" timestamp="1603581270356">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="100" y="100" width="774" height="840" key="com.android.tools.idea.avdmanager.AvdListDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1603581270356" />
+    <state x="183" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1603581184467">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="183" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1603581184467" />
+  </component>
+</project>
